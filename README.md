@@ -1,36 +1,24 @@
-# [Tên của bạn]
+# Linh Huynh Nguyen Duy
 
-### Liên hệ
-- **Email**: [email@example.com](mailto:email@example.com)
-- **LinkedIn**: [linkedin.com/in/username](https://linkedin.com/in/username)
-- **GitHub**: [github.com/username](https://github.com/username)
+### About me
+A motivated individual always striving for excellence and continuous improvement in everything I do
 
-### Giới thiệu
-Tóm tắt về bản thân bạn, ví dụ: kinh nghiệm, sở thích, mục tiêu nghề nghiệp.
+### Contacts
+- **Mobile Phone**: +84 586 215 399
+- **Email**: 24520955@gm.uit.edu.vn
 
-### Kỹ năng
-- **Ngôn ngữ lập trình**: Python, JavaScript, C++, etc.
-- **Công nghệ**: Git, Docker, Kubernetes, etc.
-- **Công cụ và nền tảng**: AWS, Azure, etc.
+### Skill
+- **Programming language**: C++
+- **Foreign language**: English
 
-### Kinh nghiệm làm việc
-#### [Chức danh], [Tên công ty]
-*Tháng/Năm - Tháng/Năm*
-- Mô tả công việc, nhiệm vụ và thành tựu của bạn ở công ty này.
+### Working experience
+No working experience
 
-#### [Chức danh], [Tên công ty]
-*Tháng/Năm - Tháng/Năm*
-- Mô tả công việc, nhiệm vụ và thành tựu của bạn ở công ty này.
-
-### Học vấn
-- **[Tên trường đại học]**
-*Tháng/Năm - Tháng/Năm*
-  - Bằng cấp: [Tên bằng cấp]
-  - Thành tích nổi bật: [Thành tích, học bổng, etc.]
-
-### Dự án
-#### [Tên dự án]
-- Mô tả ngắn gọn về dự án này, kỹ năng và công nghệ đã sử dụng.
-
-#### [Tên dự án]
-- Mô tả ngắn gọn về dự án này, kỹ năng và công nghệ đã sử dụng.
+### Education
+**University of Economics and Law**
+*Sep 2023 - Now*
+  - Bachelor of International Business (Undergraduate)
+**University of Information Technology**
+*Sep 2024 - Now*
+  - Bachelor of Computer Science (Undergraduate)
+ 
