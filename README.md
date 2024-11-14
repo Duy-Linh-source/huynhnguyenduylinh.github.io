@@ -11,8 +11,10 @@ A motivated individual always striving for excellence and continuous improvement
 - **Programming language**: C++
 - **Foreign language**: English
 
+
 ### Working experience
 No working experience
+
 
 ### Education
 **University of Economics and Law**
