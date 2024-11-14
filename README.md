@@ -18,6 +18,7 @@ No working experience
 **University of Economics and Law**
 *Sep 2023 - Now*
   - Bachelor of International Business (Undergraduate)
+
 **University of Information Technology**
 *Sep 2024 - Now*
   - Bachelor of Computer Science (Undergraduate)
